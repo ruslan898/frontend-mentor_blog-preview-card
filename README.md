@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/ruslan898/frontend-mentor_blog-preview-card
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://ruslan898.github.io/frontend-mentor_blog-preview-card/
 
 ## My process
 
